@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "outDir": "build",
-        "baseUrl": "/Users/samrose/Desktop/test/r3f-game-demo",
+        "baseUrl": "/Users/samrose/Documents/Projects/diesel",
         "sourceMap": true,
         "allowJs": true,
         "allowSyntheticDefaultImports": true,

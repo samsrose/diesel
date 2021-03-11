@@ -1,7 +1,7 @@
 {
-  "name": "game",
+  "name": "diesel",
   "version": "1.0.0",
-  "description": "",
+  "description": "a diesel punk game",
   "scripts": {
     "init": "confy-core init --env=development",
     "start": "confy-core start --env=development",
@@ -10,8 +10,8 @@
     "config": "confy-core show-config --env=development"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sam Rose <srose@untethered.me>",
+  "license": "MIT",
   "devDependencies": {
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.4.4",
     "@babel/plugin-proposal-optional-chaining": "^7.6.0",
@@ -40,5 +40,8 @@
     "react-three-fiber": "^4.2.8",
     "three": "^0.112.1",
     "zustand": "^2.2.3"
-  }
+  },
+  "main": "index.html",
+  "repository": "https://github.com/samsrose/diesel.git",
+  "private": false
 }
