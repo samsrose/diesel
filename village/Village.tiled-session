@@ -1,0 +1,594 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "military.tmx",
+    "expandedProjectPaths": [
+        "/Users/samrose/Diesel",
+        "Spooky Town"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samrose/Diesel/Diesel.tmx": {
+            "scale": 0.3954,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1688.1638846737483,
+                "y": 1282.2458270106224
+            }
+        },
+        "/Users/samrose/Diesel/Diesel.tmx#Blocks": {
+            "scaleInDock": 1
+        },
+        "/Users/samrose/Diesel/Diesel.tmx#more_rough_wood_1": {
+            "dynamicWrapping": true
+        },
+        "/Users/samrose/Diesel/Diesel.tmx#tf_A1_ashlands_1": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "/Users/samrose/Diesel/Diesel.tmx#tf_A2_ashlands_1": {
+            "dynamicWrapping": false
+        },
+        "/Users/samrose/Diesel/Diesel.tmx#tf_darkdimension_sheet": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "/Users/samrose/Diesel/map.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.1017,
+            "scaleInEditor": 0.06
+        },
+        "/Users/samrose/Documents/Projects/desiel/map/UI.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 5.5324
+        },
+        "/Users/samrose/Documents/Projects/desiel/map/atlas.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/Users/samrose/Documents/Projects/desiel/map/map.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 190,
+                "y": 285.5
+            }
+        },
+        "/Users/samrose/Documents/Projects/diesel-2d/assets/Game.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 110.66666666666663,
+                "y": 310.66666666666663
+            }
+        },
+        "/Users/samrose/Documents/Projects/diesel-2d/assets/Game.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "/Users/samrose/Documents/Projects/samro.se-netlify/city/city.tmx": {
+            "scale": 1.6482,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 299.7209076568377,
+                "y": 396.1897827933502
+            }
+        },
+        "/Users/samrose/Documents/Projects/samro.se-netlify/city/city.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 4.2041,
+            "scaleInEditor": 1
+        },
+        "Adventurer-1.5/adventurer-v1.5-Sheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Adventurer-1.5/adventurer.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Scut 7DRL Tilemaps Itch/PetesTiledExperiments.tsx": {
+            "scaleInDock": 1.3903
+        },
+        "Spooky Town/Spooky.tmx": {
+            "scale": 0.35,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1594.2857142857142,
+                "y": 808.5714285714287
+            }
+        },
+        "Spooky Town/Spooky.tmx#Spooky2": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Spooky Town/Spooky.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.03
+        },
+        "Spooky Town/spooky.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 292,
+                "y": 298
+            }
+        },
+        "Village.tmx": {
+            "scale": 0.03125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 13680,
+                "y": 12896
+            }
+        },
+        "Village.tmx#Background": {
+            "dynamicWrapping": true
+        },
+        "Village.tmx#Buildings": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Canopy_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Canopy_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Canopy_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Canopy_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Chimney_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Chimney_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Chimney_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Chimney_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Decor_Roof_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Decor_Roof_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Decor_Window_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Decor_Window_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Decor_Window_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Decor_Window_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Door_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Door_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Door_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Door_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Ladder_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Ladder_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Objects": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Village.tmx#Pillar_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Pillar_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Pillar_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Pillar_05": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Pillar_06": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Pillar_07": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_A_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_A_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_A_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_A_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_A_05": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_B_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_B_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_B_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_B_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Roof_B_05": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Stone_Window_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Stone_Window_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Stone_Window_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_A_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_A_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_A_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_B_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_B_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_B_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_C_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_C_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wall_C_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wide_Door_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wide_Door_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wide_Door_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Wide_Door_04": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Window_01": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Window_02": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Window_03": {
+            "scaleInDock": 1
+        },
+        "Village.tmx#Window_04": {
+            "scaleInDock": 1
+        },
+        "fuzz.tmx": {
+            "scale": 2,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 209,
+                "y": 87.75
+            }
+        },
+        "fuzz.tmx#building_inner-tileg": {
+            "scaleInDock": 1
+        },
+        "fuzz.tmx#nature_outside-tilef": {
+            "scaleInDock": 1
+        },
+        "fuzz.tmx#neotiles": {
+            "scaleInDock": 2
+        },
+        "fuzz.tmx#retrowave": {
+            "scaleInDock": 1
+        },
+        "fuzz.tmx#rural-tileset-tilex": {
+            "scaleInDock": 1
+        },
+        "fuzz.tmx#shop-and-hospital": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "fuzz.tmx#street-1-1": {
+            "scaleInDock": 2
+        },
+        "fuzz.tmx#streets-tilee-v2": {
+            "scaleInDock": 2
+        },
+        "kenneyDungeonPack_2.3/Samples/Tiled Sample/IsoSample.tmx": {
+            "scale": 0.03125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6400,
+                "y": 6400
+            }
+        },
+        "kenneyDungeonPack_2.3/Samples/Tiled Sample/IsoSample.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 3
+        },
+        "kenneyDungeonPack_2.3/Samples/Tiled Sample/IsoStaggered.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7390,
+                "y": 5214
+            }
+        },
+        "kenneyDungeonPack_2.3/Samples/Tiled Sample/Sample.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 6416,
+                "y": 3248
+            }
+        },
+        "kenneyDungeonPack_2.3/Samples/Tiled Sample/Sample.tsx": {
+            "scaleInDock": 0.25
+        },
+        "market.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -1,
+                "y": 165.25
+            }
+        },
+        "market.tmx#rural-tileset-tilex": {
+            "scaleInDock": 2
+        },
+        "market.tmx#shop-and-hospital": {
+            "scaleInDock": 2
+        },
+        "market.tmx#streets-tilee-v2": {
+            "scaleInDock": 2
+        },
+        "military.tmx": {
+            "scale": 3,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": -1489,
+                "y": -64.16666666666666
+            }
+        },
+        "military.tmx#neotiles": {
+            "scaleInDock": 2
+        },
+        "military.tmx#retrowave": {
+            "scaleInDock": 1
+        },
+        "military.tmx#streets-tilee-v2": {
+            "scaleInDock": 1
+        },
+        "test.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5847
+        },
+        "traviso.js-master/examples/assets/map/Graphic Revision Tileset 02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "traviso.js-master/examples/assets/map/Itch release tileset base 01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5027
+        },
+        "traviso.js-master/examples/assets/map/map.tmx": {
+            "scale": 0.253,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1424.901185770751,
+                "y": 948.6166007905138
+            }
+        },
+        "traviso.js-master/examples/assets/map/map.tmx#Graphic Revision Tileset 02": {
+            "scaleInDock": 5.1208
+        },
+        "traviso.js-master/examples/assets/map/map.tmx#tieset1": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/map/map.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2.5085
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1394,
+                "y": 208
+            }
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#Graphic Revision Tileset 02": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (1)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (2)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (3)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (4)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (5)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (6)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (7)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (8)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#block (9)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#cityTiles_000": {
+            "dynamicWrapping": false
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#cityTiles_001": {
+            "dynamicWrapping": true
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#grass-block (1)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#grass-block (2)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#grass-block (3)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#grass-block (4)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#grass-block (5)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#grass-block (6)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#smoth-block (1)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#smoth-block (2)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#smoth-block (3)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#smoth-block (4)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#smoth-block (5)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#snow-block (1)": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#snow-block (2)": {
+            "scaleInDock": 0.12
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#staircase (1)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#staircase (2)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#staircase (3)": {
+            "scaleInDock": 1
+        },
+        "traviso.js-master/examples/assets/spookytileset.tmx#tileset1": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.12
+        },
+        "untitled.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -184,
+                "y": -816
+            }
+        }
+    },
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.json)",
+    "map.fixedSize": false,
+    "map.height": 100,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.renderOrder": null,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 100,
+    "openFiles": [
+        "fuzz.tmx",
+        "military.tmx",
+        "market.tmx"
+    ],
+    "project": "Village.tiled-project",
+    "property.type": "file",
+    "recentFiles": [
+        "fuzz.tmx",
+        "market.tmx",
+        "military.tmx",
+        "Village.tmx",
+        "untitled.tmx",
+        "Spooky Town/Spooky.tsx",
+        "Spooky Town/spooky.tmx",
+        "Spooky Town/Spooky.tmx",
+        "/Users/samrose/Documents/Projects/diesel-2d/assets/Game.tsx",
+        "/Users/samrose/Documents/Projects/diesel-2d/assets/Game.tmx",
+        "/Users/samrose/Documents/Projects/samro.se-netlify/city/city.tsx",
+        "/Users/samrose/Documents/Projects/samro.se-netlify/city/city.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
