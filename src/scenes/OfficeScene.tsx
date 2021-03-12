@@ -16,12 +16,12 @@ import spriteData from '../spriteData';
 const mapData = mapDataString(`
 # # # # # # # # # # # # # # # # #
 # · W T # T · · W T · W · · · T #
-# · · · · · · · · · · · · · · o ·
+# · · · · · · · · · · · · · · · ·
 # o · · # · · · # # # # · · # # #
-# # # # # · · · # W o W · · T W #
+# # # # # · · · # W o W · · T · #
 # C C C # · · · T · · · · · · · #
 # o · · · · · · · · · · · · · o #
-# # # # # # # # # # # # # # # # #
+# # | | # | | # # # | | # | | # #
 `);
 
 const resolveMapTile: TileMapResolver = (type, x, y) => {

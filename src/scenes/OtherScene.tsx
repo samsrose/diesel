@@ -10,11 +10,11 @@ import Player from '../entities/Player';
 import spriteData from '../spriteData';
 
 const mapData = mapDataString(`
-# # # # # #
-# · · · · #
-· · · · · #
-# · · · · #
-# # # # # #
+# # # # # # # # # # # # # #
+# · · · · · · · · · · · · #
+· · · · · · · · · · · · · #
+# · · · · · · · · · · · · #
+# # # # # # # # # # # # # #
 `);
 
 const resolveMapTile: TileMapResolver = (type, x, y) => {
